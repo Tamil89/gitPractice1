@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45442" started-at="2017-03-01T19:04:38Z" finished-at="2017-03-01T19:05:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45442" started-at="2017-03-01T19:04:38Z" finished-at="2017-03-01T19:05:23Z">
+      <class name="testcases.TC001_AmazonLogin">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC001_AmazonLogin@1975490]" name="beforeSuite" is-config="true" duration-ms="542" started-at="2017-03-02T00:34:37Z" finished-at="2017-03-02T00:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC001_AmazonLogin@1975490]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-03-02T00:34:38Z" finished-at="2017-03-02T00:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.TC001_AmazonLogin@1975490]" name="setData" is-config="true" duration-ms="0" started-at="2017-03-02T00:34:38Z" finished-at="2017-03-02T00:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC001_AmazonLogin@1975490]" name="beforeMethod" is-config="true" duration-ms="28821" started-at="2017-03-02T00:34:39Z" finished-at="2017-03-02T00:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Search(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC001_AmazonLogin@1975490]" name="Search" duration-ms="14204" started-at="2017-03-02T00:35:07Z" data-provider="fetchData" finished-at="2017-03-02T00:35:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[New & Popular]]>
+              </value>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC001_AmazonLogin@1975490]" name="afterMethod" is-config="true" duration-ms="1748" started-at="2017-03-02T00:35:22Z" finished-at="2017-03-02T00:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC001_AmazonLogin@1975490]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-03-02T00:35:23Z" finished-at="2017-03-02T00:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC001_AmazonLogin@1975490]" name="afterSuite" is-config="true" duration-ms="321" started-at="2017-03-02T00:35:23Z" finished-at="2017-03-02T00:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC001_AmazonLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
